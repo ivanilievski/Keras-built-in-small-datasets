@@ -1,1 +1,3 @@
 # Keras-built-in-small-datasets
+
+Using toy datasets for fun...
